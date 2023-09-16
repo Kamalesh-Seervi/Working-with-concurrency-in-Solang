@@ -1,5 +1,5 @@
 # Working-with-concurrency-in-golang
-# waitgrps, channel, mutex, test cases and race conditions
+# Waitgrps, channel, Mutex, Test cases and Race conditions
 
 - To test cases code 
 ```
